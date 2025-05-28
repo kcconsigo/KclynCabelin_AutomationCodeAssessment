@@ -29,3 +29,7 @@ npx playwright codegen demo.playwright.dev/todomvc
 
 # To download ortoni report
 npm install -D ortoni-report  
+
+# Output and Result as per regression test automation testing
+![image](https://github.com/user-attachments/assets/2a76e1b8-826f-45df-825d-d570a59a0a3c)
+
