@@ -2,7 +2,7 @@
 
 Project Name: Holy Family Christmas Tree Toppers | Balsam Hill Automation Demo</h1>
 
-<h3> This automation framework covers features such as: Search an Item, Select Product customization options</h3>
+<h3> This automation framework covers features such as: Search an Item, Select Product customization options, and its validation</h3>
 
 # <b> </b>Framework and Tools used: </b>
 <h5> Playwright for Automation and node.js and typescript for programming language
