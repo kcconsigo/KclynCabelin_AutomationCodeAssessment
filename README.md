@@ -14,12 +14,14 @@ git clone https://github.com/kcconsigo/KclynCabelin_AutomationCodeAssessment.git
 
 # Installing Playwright 
 npm init playwright@latest
-
+# Run Playwright test automation  
 npx playwright test
 
 npx playwright test --ui
 
 npx playwright test --headed
+
+npx playwright test @RegressionTesting TC01_NavigateBalsamPage.spec.ts --headed
 
 npm install -D @playwright/test@latest
 # Also download new browser binaries and their dependencies:
