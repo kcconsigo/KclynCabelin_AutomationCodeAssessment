@@ -1,0 +1,13 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="24.307742">
+<testsuite name="TC01_NavigateBalsamPage.spec.ts" timestamp="2025-05-28T13:01:00.585Z" hostname="chromium" tests="1" failures="0" skipped="0" time="22.996" errors="0">
+<testcase name="Navigate Balsam and Search Christmasntree on Searchbar,Christmas Tree, christmas tree topper, Burgundy Holy Family Tree Topper," classname="TC01_NavigateBalsamPage.spec.ts" time="22.996">
+<system-out>
+<![CDATA[$179
+Qty: 1
+$179
+Burgundy Holy Family Tree Topper has been removed.Undo
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
