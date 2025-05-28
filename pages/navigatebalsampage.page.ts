@@ -15,7 +15,7 @@ export class navigateURLPage{
         this.productPriceText = page.getByTestId('produt-detail-container').getByLabel('$179');
         this.productQty = page.getByText('Qty: 1');
     }
-    async navigatePage(){
+    async navigatePage(WEB_URL_QA: string | undefined){
         await this.page.goto('https://www.balsamhill.com/');
         await expect(this.page).toHaveURL('https://www.balsamhill.com/');
         await this.page.getByTestId('close-cookie-banner').click();
