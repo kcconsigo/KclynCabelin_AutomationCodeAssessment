@@ -12,6 +12,7 @@ import { OrtoniReportConfig } from "ortoni-report";
  * See https://playwright.dev/docs/test-configuration.
  */
 export default defineConfig({
+  globalSetup: 'utils/globalEnviSetup.js',
   testDir: './tests',
   /* Run tests in files in parallel */
   fullyParallel: false,
