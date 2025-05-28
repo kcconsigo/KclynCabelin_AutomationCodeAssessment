@@ -39,9 +39,9 @@ npm install -D ortoni-report
 ![image](https://github.com/user-attachments/assets/2a76e1b8-826f-45df-825d-d570a59a0a3c)
 
 # Configured Test Management Envi for QA Envi
-![image](https://github.com/user-attachments/assets/d574743e-9daf-4a19-be6d-542aab25173d)
-- Create global Envi Setup in javascript file
 
+- Create global Envi Setup in javascript file
+![image](https://github.com/user-attachments/assets/d574743e-9daf-4a19-be6d-542aab25173d)
 ![image](https://github.com/user-attachments/assets/4af0868a-ef3f-4324-89e2-360376c08050)
 
 ![image](https://github.com/user-attachments/assets/5f8271c6-c99e-46c8-827a-a41ee2401850)
