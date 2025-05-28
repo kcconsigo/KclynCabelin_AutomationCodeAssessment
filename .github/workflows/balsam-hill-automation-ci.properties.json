@@ -1,0 +1,8 @@
+{
+    "name": "Balsam Hill Automation Demo",
+    "description": "Balsam Hill Automation Demo CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ]
+}

@@ -7,7 +7,7 @@ test.beforeEach(async ({ page }) => {
 });
 test(`Navigate Balsam and Search Christmasntree on Searchbar,${chrismastreeitems.searchItemResults}, ${chrismastreeitems.searchItemResultPage}, ${chrismastreeitems.productItem},`,{tag: '@RegressionTesting'}, async ({ page }) => {
   const navigateurlpage = new navigateURLPage(page);
-  await navigateurlpage.navigatePage();
+  await navigateurlpage.navigatePage(process.env.WEB_URL_QA);
   await navigateurlpage.searchItem(chrismastreeitems.searchItemResults, chrismastreeitems.searchItemResultPage);
   await navigateurlpage.productSelectionPage(chrismastreeitems.productItem);
   await navigateurlpage.productDetailsPage();
