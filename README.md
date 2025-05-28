@@ -9,6 +9,9 @@ Project Name: Holy Family Christmas Tree Toppers | Balsam Hill Automation Demo</
   
 <br> Github Actions CICD Integration tool </br> </h4>
 
+# To Clone the project:
+git clone https://github.com/kcconsigo/KclynCabelin_AutomationCodeAssessment.git
+
 # Installing Playwright 
 npm init playwright@latest
 
