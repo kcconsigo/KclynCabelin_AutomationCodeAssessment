@@ -5,9 +5,9 @@ Project Name: Holy Family Christmas Tree Toppers | Balsam Hill Automation Demo</
 <h3> This automation framework covers features such as: Search an Item, Select Product customization options, and its validation that runs on QA Environment (It can also be run on DEV Environment</h3>
 
 # <b> </b>Framework and Tools used: </b>
-<h5> Playwright for Automation and node.js and typescript for programming language
+<h4> Playwright for Automation and node.js and typescript for programming language
   
-<br> Github Actions CICD Integration tool </br> </h5>
+<br> Github Actions CICD Integration tool </br> </h4>
 
 # Installing Playwright 
 npm init playwright@latest
